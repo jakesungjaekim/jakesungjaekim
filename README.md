@@ -1,7 +1,9 @@
-<img src="https://user-images.githubusercontent.com/103394638/171373188-a8e4125d-50f1-4559-87a7-d8af5bf14903.jpeg" width="400" height="350" align="right"/>
-
 <h1>Hello Guys! I`m Jake!</h1>
 <h4> Welcome to my page! </h4>
+<p>사용자와 누구보다 가까운 위치에 있으며 <b>비즈니스의 최대 가치를 제공하기 위해 끊임없는 고민과 학습</b>이 요구된다는 점에 이끌려 프론트엔드 개발자가 되었습니다.</p>
+<p>디자이너가 설계한 아름다운 UI를 <b>정확하게, 꼼꼼하게 구현하고 파이널라이즈하여 </b> 사용자의 <br/>눈길을 끌며 매끄러운 웹을 구현해 <b>더 나은 사용자 경험을 제공하는 웹 서비스 개발</b>을 하는 것이 제 목표입니다.</p>
+
+
 <h2>My Stack</h2>
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
